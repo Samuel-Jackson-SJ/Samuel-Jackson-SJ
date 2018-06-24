@@ -6,15 +6,7 @@ header{
 background-image: url('Imagens/Wall-e cubo.jpg');
 height: 100vh;
 background-size: 100% 100%;
-position: relative;
-}
-.header-title{
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	color: white;
-	text-align: center;
+
 }
 .header-title h1{
 	font-size: 4em;
@@ -30,7 +22,7 @@ position: relative;
   left: 50%;
   transform:  translate(-50%, -50%);
   overflow: hidden;
-  background-color: #333;
+  background-color: #DCDCDC;
 
 }
 
